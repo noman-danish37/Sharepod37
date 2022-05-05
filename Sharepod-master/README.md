@@ -4,4 +4,4 @@ item is bought or not, and if bought,it lets the users to view the id of the use
 the authentication of users is backed up by passport.js , the authentication for rooms is done using
 bcrypt.
 Technologies Used: HTML, CSS, Bootstrap, JavaScript, Node.js,Express.js, MongoDB.
-URL of the website: http://sharepod.herokuapp.com/
+URL of the website: http://sharepodd.herokuapp.com/
